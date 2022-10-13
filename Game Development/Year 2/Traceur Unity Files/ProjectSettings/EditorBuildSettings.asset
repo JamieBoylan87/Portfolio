@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 54e6cf44dbfe9b841a8c20d0f49f4052
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 8c12c907c10c84946a0555573d2af926
+  - enabled: 1
+    path: Assets/Scenes/Game Over 1.unity
+    guid: b82a43e70befd204b8a873c10a7e41be
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: ca6c9a6947efea743945213967e9d58a
+  - enabled: 1
+    path: Assets/Scenes/Game Over 2.unity
+    guid: 9e39b05533dc1a3408e498a2312091ad
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 44fd691b1a09ca14b91c5fe3f2a7bca4
+  - enabled: 1
+    path: Assets/Scenes/Game Over 3.unity
+    guid: c3eaefb1f292c404285feefb88e1c9ee
+  - enabled: 1
+    path: Assets/Scenes/Game Complete.unity
+    guid: 118063ebfc7b3d1429d272a5591e313f
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: b1ffc7c25a655e3458ccff7d7426bbf5
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 36a43c72f18aa984480a84d504a0b69a
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: fa1d4af46df843a47ae41b00968d53e8
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: b7be8ba9539248748a706fb10554906a
+  m_configObjects: {}
